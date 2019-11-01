@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Lab2_2, Configuration: Debug Win32 ------
+1>Lab2_2.cpp
+1>Lab2_2.vcxproj -> C:\Users\Ema\source\repos\Lab2_2\Debug\Lab2_2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
